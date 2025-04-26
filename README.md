@@ -93,6 +93,8 @@
        - Click **Done**.
      - Deploy the Node-RED server by clicking **Deploy** (top right).
 
+![Screenshot 2025-04-27 000652](https://github.com/user-attachments/assets/afaebac1-297a-41c8-82d2-ade008db0a9e)
+
    - **Check if the Message is Received**
      Publish a message to check if it is received:
      ```bash
@@ -110,15 +112,20 @@
        Retain: true
        ```
        - Click **Done**.
+      
+         ![Screenshot 2025-04-27 000741](https://github.com/user-attachments/assets/fd2ae6fa-a433-454c-ba8d-d5243a755934)
+         ![Screenshot 2025-04-26 234648](https://github.com/user-attachments/assets/17e3d79a-d2f5-448f-933b-23a45f8f0a28)
+         ![Screenshot 2025-04-27 000627](https://github.com/user-attachments/assets/08be99a5-368d-4809-8c52-db010658e03c)
      - Add an Inject node:
        - Configure `msg.payload` to be a string.
        - Add the message you want to send.
        - Click **Done**.
      - Deploy the Node-RED server by clicking **Deploy** (top right).
-
+      
    - **Debug the Message**
      - Click the Debug icon.
      - Click the message button to see the message output.
-```
 
-You can copy and paste this content into a `README.md` file.
+![Screenshot 2025-04-27 002206](https://github.com/user-attachments/assets/44f18a2f-d079-4874-9a76-8df5c652acae)
+
+   
