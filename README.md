@@ -1,6 +1,6 @@
 # MQTT
 
-# Setup Instructions for IoT
+## Setup Instructions for IoT
 
 ## Setup Section
 
