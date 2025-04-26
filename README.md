@@ -2,7 +2,7 @@
 
 ## Setup Instructions for IoT
 
-## Setup Section
+### Setup Section
 
 1. **Install Node-RED**
    Run the following command to install Node-RED globally with unsafe permissions:
