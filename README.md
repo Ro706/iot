@@ -46,7 +46,40 @@
      ```
 
 4. **Using Node-RED**
-
+   ```
+   PS C:\Users\rohit\OneDrive\Desktop> node-red
+   26 Apr 23:26:58 - [info]
+   
+   Welcome to Node-RED
+   ===================
+   
+   26 Apr 23:26:58 - [info] Node-RED version: v4.0.9
+   26 Apr 23:26:58 - [info] Node.js  version: v23.4.0
+   26 Apr 23:26:58 - [info] Windows_NT 10.0.26100 x64 LE
+   26 Apr 23:26:59 - [info] Loading palette nodes
+   26 Apr 23:26:59 - [info] Settings file  : C:\Users\rohit\.node-red\settings.js
+   26 Apr 23:26:59 - [info] Context store  : 'default' [module=memory]
+   26 Apr 23:26:59 - [info] User directory : C:\Users\rohit\.node-red
+   26 Apr 23:26:59 - [warn] Projects disabled : editorTheme.projects.enabled=false
+   26 Apr 23:26:59 - [info] Flows file     : C:\Users\rohit\.node-red\flows.json
+   26 Apr 23:26:59 - [info] Creating new flow file
+   26 Apr 23:26:59 - [warn]
+   
+   ---------------------------------------------------------------------
+   Your flow credentials file is encrypted using a system-generated key.
+   
+   If the system-generated key is lost for any reason, your credentials
+   file will not be recoverable, you will have to delete it and re-enter
+   your credentials.
+   
+   You should set your own key using the 'credentialSecret' option in
+   your settings file. Node-RED will then re-encrypt your credentials
+   file using your chosen key the next time you deploy a change.
+   ---------------------------------------------------------------------
+   
+   26 Apr 23:26:59 - [info] Server now running at http://127.0.0.1:1880/
+   ```
+   - **open This in browser** `http://127.0.0.1:1880/`
    - **Set Up MQTT in Node-RED**
      - Drag and drop the Debug node and the MQTT In node onto the workspace.
      - Double-click the MQTT In node to open the side menu.
