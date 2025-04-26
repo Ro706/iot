@@ -80,6 +80,9 @@
    26 Apr 23:26:59 - [info] Server now running at http://127.0.0.1:1880/
    ```
    - **open This in browser** `http://127.0.0.1:1880/`
+  
+     ![image](https://github.com/user-attachments/assets/09c7f801-2f27-418b-bb2b-c100c0c94b3f)
+
    - **Set Up MQTT in Node-RED**
      - Drag and drop the Debug node and the MQTT In node onto the workspace.
      - Double-click the MQTT In node to open the side menu.
