@@ -1,6 +1,5 @@
 # MQTT
 
-```markdown
 # Setup Instructions for IoT
 
 ## Setup Section
