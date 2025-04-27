@@ -70,37 +70,6 @@ void loop() {
 
 
 ```
-```python
-from google.cloud import logging
-import datetime
-import random  # Simulating sensor data
-
-# Initialize Google Cloud Logging client
-client = logging.Client()
-logger = client.logger("experiment_6_log")
-
-def log_experiment_data(temp, humidity):
-    """
-    Logs temperature and humidity data to Google Cloud.
-    """
-    timestamp = datetime.datetime.utcnow().isoformat()
-    log_data = {
-        "experiment": "6",
-        "timestamp": timestamp,
-        "temperature": temp,
-        "humidity": humidity
-    }
-    logger.log_struct(log_data)
-    print(f"Logged: {log_data}")
-
-# Simulating real-time data logging
-if __name__ == "__main__":
-    for _ in range(10):  # Simulate 10 log entries
-        temp = round(random.uniform(20.0, 30.0), 2)
-        humidity = round(random.uniform(40.0, 60.0), 2)
-        log_experiment_data(temp, humidity)
-
-```
 
 ## connection
 ![image](https://github.com/user-attachments/assets/ae1ea700-4eaf-49d1-b4ad-9b96f21ba586)
