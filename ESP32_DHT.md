@@ -69,10 +69,8 @@ void loop() {
 }
 
 
-//EXPERIMENT: 06
-//TASHU PALIWAL
-//22070521172
-
+```
+```python
 from google.cloud import logging
 import datetime
 import random  # Simulating sensor data
