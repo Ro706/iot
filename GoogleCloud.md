@@ -14,6 +14,7 @@
 5. In **API & Services**, click **Enable APIs and Services**.
 6. Search for **Google Drive API**.
 7. Click **Enable**.
+   ![image](https://github.com/user-attachments/assets/09a3405f-b98b-4c50-83c2-648188561b36)
 8. Repeat the same steps to enable **Google Sheets API**.
     ![image](https://github.com/user-attachments/assets/6a3cf819-52e4-4c69-8b08-9c060156085c)
 9. Go to **Credentials** -> **Create Credentials** -> **Service Account**.
