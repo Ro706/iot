@@ -31,6 +31,8 @@ Raspberry Pi boards are single-board computers designed for educational and deve
 6. **Display:** Dual HDMI ports  
 7. **GPIO Pins:** 40 pins general-purpose I/O for hardware interfacing  
 
+![image](https://github.com/user-attachments/assets/14114498-f7ac-4506-b0cd-a6af2b04fc81)
+
 ---
 
 **Raspberry Pi Zero 2W Features:**  
@@ -40,6 +42,8 @@ Raspberry Pi boards are single-board computers designed for educational and deve
 4. **Connectivity:** Mini-HDMI, Micro-USB OTG, Micro-USB for power  
 5. **WiFi:** 2.4 GHz, **Bluetooth v4.2**  
 6. **Purpose:** Low-power projects, compact hardware projects
+
+![image](https://github.com/user-attachments/assets/f5aa0c9b-df6f-468c-a8e0-03e129115ac6)
 
 ---
 
