@@ -1,4 +1,4 @@
-# #rd practical
+# 3rd practical
 ---
 ![IMG20250428100219](https://github.com/user-attachments/assets/7be6b3b0-89fb-4d21-97f1-f0bff7537dfd)
 ![IMG20250428100312 1](https://github.com/user-attachments/assets/8812673c-cd74-4142-b95f-3b1a01ca33cf)
